@@ -1,0 +1,19 @@
+*{
+  margin:0;
+  padding:0;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.counter{
+  height: 100px;
+  width: 250px;
+  border: 1px solid green;
+  border-radius: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
